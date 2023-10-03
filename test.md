@@ -1,3 +1,3 @@
 I haven't decided what my startup will be
 
-Oooooh! I get it. This is a change from GitHub.
+Oooooh! I get it. This is a change from GitHub, and now I'm editing it from my development environment.
