@@ -6,4 +6,4 @@ Yet another change from Github. Changed line from dev. environment and Github.
 
 Let's make some more changes / now making changes with VIM from the console.
 
-Making a change from the console.
+Merged conflict in the console.
