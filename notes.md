@@ -16,4 +16,4 @@ Imporant commands:
 - `git fetch`
 - `git status`
 
-If you need a reference to more commands visit the class page on the console and [Git](https://github.com/webprogramming260/.github/blob/main/profile/essentials/gitHub/gitHub.md#github).
+If you need a reference to more commands visit the class page on the [console](https://github.com/webprogramming260/.github/blob/main/profile/essentials/console/console.md) and [Git](https://github.com/webprogramming260/.github/blob/main/profile/essentials/gitHub/gitHub.md#github).
