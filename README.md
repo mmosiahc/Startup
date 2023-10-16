@@ -12,4 +12,6 @@ Here's my login page.
 
 ![Screenshot of the LoveBox login page](https://github.com/mmosiahc/Startup/blob/main/LoveBoxLogin.png)
 
-This is a standard home page.
+This is a standard home page
+
+![Screenshot of the LoveBox home page]().
