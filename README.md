@@ -8,10 +8,14 @@ Have you ever wanted to leave a love note for that special someone but forgot or
 
 ### Design
 
-Here's my login page.
+LoveBox login page.
 
 ![Screenshot of the LoveBox login page](https://github.com/mmosiahc/Startup/blob/main/LoveBoxLogin.png)
 
-This is a standard home page
+LoveBox home page.
 
-![Screenshot of the LoveBox home page]().
+![Screenshot of the LoveBox home page](https://github.com/mmosiahc/Startup/blob/main/loveBoxHome.png)
+
+Sequence diagram demonstrating interaction with LoveBox.
+
+![Image of sequence diagram]()
