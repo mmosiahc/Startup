@@ -9,7 +9,9 @@ Have you ever wanted to leave a love note for that special someone but forgot or
 ### Design
 
 LoveBox home page.
+
 LoveBox login page.
+
 Sequence diagram demonstrating interaction with LoveBox.
 
 ![Screenshot of the LoveBox login page](https://github.com/mmosiahc/Startup/blob/main/LoveBoxLogin.png) 
