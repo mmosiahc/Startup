@@ -16,4 +16,10 @@ Imporant commands:
 - `git fetch`
 - `git status`
 
-If you need a reference to more commands visit the class page on the [console](https://github.com/webprogramming260/.github/blob/main/profile/essentials/console/console.md) and [Git](https://github.com/webprogramming260/.github/blob/main/profile/essentials/gitHub/gitHub.md#github).
+If you need a reference to more commands visit the class page on the [console](https://github.com/webprogramming260/.github/blob/main/profile/essentials/console/console.md) and [Git](https://github.com/webprogramming260/.github/blob/main/profile/essentials/gitHub/gitHub.md#github)
+
+## The Internet and Web Servers
+
+I learned about how the internet works. I also learned about web servers. I learned about Amazon EC2 Web Service. I made a instance of a server and accessed it through a remote shell. It was cool to understand how everything I was doing was functioning. I then assigned an elastic IP address: 44.198.237.228. 
+
+The command to remote shell into the server was ```ssh -i [key pair file] ubuntu@[ip address]```.
