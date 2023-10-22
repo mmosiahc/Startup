@@ -26,7 +26,7 @@ The command to remote shell into the server was `ssh -i [key pair file] ubuntu@[
 
 I like the table at the end of the internet lesson taling about the network internals. It said the actual sending of data across the internet used the TCP/IP model. This is a layered architecture that covers everything from the physical wres to the data that a web app sends.
 
-TCP/IP layers
+### TCP/IP layers
 
 | Layer       | Example         | Purpose                               |
 | ----------- | --------------- | ------------------------------------- |
