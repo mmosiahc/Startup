@@ -42,12 +42,15 @@ I will use the required technologies in teh following ways.
 - WebSocket - When a user gets a message it is broadcast to them
 - React - Application ported to tuse the React web framework.
 
-<!-- ## HTML deliverable
+ ## HTML deliverable
 
 For this deliverable I will build the basic structure using HTML.
 
 - HTML pages - Five HTML pages to represent the login, home, send, open, and story pages
 - Links - The login page will link to the home page. From the home page there will be links to the send, open, and story pages. There will be three links back to the home page
 - Text - Each message and link to other pages will be text
-- Images - Details on the multiple pages will be represented by images -->
+- Images - there are images on the home, open, and send pages that are placeholders for svg images later and standard images later
+- Login - The login page has imput elements for the user to create a username and password and submit them.
+- Database - The love story represent messagses stored and pulled from the database
+- WebSocket - The notifications on the home page represent realtime incoming messages from users
 
