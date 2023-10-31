@@ -54,3 +54,23 @@ For this deliverable I will build the basic structure using HTML.
 - Database - The love story represent messagses stored and pulled from the database
 - WebSocket - The notifications on the home page represent realtime incoming messages from users
 
+## CSS deliverable
+
+For this deliverable I properly styled the application into its final appearance.
+
+- Header, footer, and main content body - added these structure elements.
+- Navigation elements - I styled my navigation by making them appear as buttons and changing decoration, color, and shape.
+- Responsive to window resizing - I added media queries to adjust to different screeen sizes and conserve my content.
+- Application elements - Did my best to make it astetically pleasing.
+- Application text content - I used consistent fonts.
+- Application images - Changed my static PNG images to richer SVGs.
+
+## JavaScript deliverable
+
+For this deliverable I implemented by JavaScript so that the application works for a single user. I also added placeholders for future technology.
+
+- Login - I used a javascript junction to take the login input and store it in local memory and redirected to the home page.
+- Database - I used a javascript junction to take the login input and store it in local memory and redirected to the home page.
+- WebSocket - I used another script to watch for notifications on the home page and if none to list a notification alerting the user of no notifications. I will replace this with WebSocket functionality later.
+- Application logic - Unfortunately I didn't get to create the logic I inteded to.
+
