@@ -120,6 +120,7 @@ button.logout:hover, button.send:hover {
 
 #story tr:nth-child(even){
   background-color: #2c3034;
+  color: white;
 }
 
 #story tr:hover {
