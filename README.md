@@ -14,7 +14,7 @@ LoveBox login page.
 
 Sequence diagram demonstrating interaction with LoveBox.
 
-![Screenshot of the LoveBox login page](https://github.com/mmosiahc/Startup/blob/main/LoveBoxLogin.png) 
+![Screenshot of the LoveBox login page](https://github.com/mmosiahc/Startup/blob/main/LoveBoxLoginSample.png) 
 ![Screenshot of the LoveBox home page](https://github.com/mmosiahc/Startup/blob/main/loveBoxHome.png)
 ![Image of sequence diagram](https://github.com/mmosiahc/Startup/blob/main/loveBoxSequenceDiagram.png)
 
