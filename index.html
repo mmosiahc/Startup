@@ -1,14 +1,76 @@
 <!DOCTYPE html>
-    <head>
-        <meta charset="UTF-8" />
-        <!-- Tell browsers not to scale the viewport automatically -->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Login</title>
-        <link rel="icon" href="LoveBox.ico" />
-    </head>
-    <body>
-        <!-- Use header, main, and footer elements to give semantic stucture -->
-        <header>
-            <h1>LoveBox</h1>
-        </header>
-    </body>
+<html lang="en">
+
+  <head>
+    <!-- meta -->
+    <meta charset="UTF-8" />
+    <!-- Tell browsers not to scale the viewport automatically -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Login</title>
+
+    <link rel="icon" href="LoveBox.ico" />
+    <link rel="stylesheet" href="main.css" />
+
+  </head>
+
+  <body>
+    <!-- Use header, main, and footer elements to give semantic structure -->
+    <header>
+      <h1 class="lovebox">LoveBox</h1>
+      <hr />
+    </header>
+    <main>
+
+      <div class="greeting">
+        <h1>Welcome</h1>
+        <p>Login to view your LoveBox</p>
+      </div>
+
+      <div class="main">
+        <form method="get" action="home.html">
+          <div class="inputOne">
+            <div class="userIcon">
+              <img src="loveboxUsername.png" style="max-width:100%;height:auto;"/>
+              &nbsp;
+              <span for="Username">Username</span>
+            </div>
+            <div class="userInput">
+              <input type="text" id="Username" name="Username" placeholder="Your username..">
+            </div>
+          </div>
+          
+
+          <br />
+
+          <div class="inputTwo">
+            <div class="passIcon">
+              <img src="loveboxPassword.png" style="max-width:100%;height:auto;" />
+              <span for="password">Password</span>
+            </div>
+            <div class="passInput">
+              <input type="text" id="password" name="password" placeholder="Your password..">
+            </div>
+          </div>
+
+          <div class="buttons">
+            <button type="submit">Login</button>
+            <button type="submit">Register</button>
+          </div>
+          
+        </form>
+      </div>
+
+      <div class="footerImage">
+        <img src="loveboxLogin.png" alt="open present with hearts coming out" style="max-width:100%;height:auto;">
+      </div>
+      
+    </main>
+
+    <footer>
+      <hr />
+      <span style="font-size: 2em;">Michael Crow</span>
+      <a class="github" href="https://github.com/mmosiahc/Startup">GitHub</a>
+    </footer>
+  </body>
+</html>
