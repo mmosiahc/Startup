@@ -100,3 +100,12 @@ For this deliverable I set up user authentication.
 - existing users can login.
 - Use MongoDB to store credentials - Stores both user and their hashed passwords.
 - Restricts functionality - The api's all require authenticated users.
+
+## WebSocket deliverable
+
+For this deliverable I used webSocket to send hearts to connected users in realtime.
+
+- Backend listens for WebSocket connection - done!
+- Frontend makes WebSocket connection - done!
+- Data sent over WebSocket connection - done!
+- WebSocket data displayed - All connected users sent hearts are displayed
