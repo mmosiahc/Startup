@@ -84,3 +84,11 @@ For this deliverable I added backend endpoints that send and log messages.
 - Backend service endpoints - I implemented /api/messages for getting and recieving messages
 - Frontend calls service endpoints - I did this using the fetch function on the story page and the send page.
 
+## Database deliverable
+
+For this deliverable I stored the votes in the database.
+
+- MongoDB Atlas database created - done!
+- Endpoints for data - My endpoints log my lovebox messages in my mongo database
+- Stores data in MongoDB - done!
+
