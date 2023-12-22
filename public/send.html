@@ -266,7 +266,7 @@
           z"/>
           <switch>
             <foreignObject x="170" y="300" width="250" height="250">
-              <form method="post" action="?">
+              <form method="post" onsubmit="sendMessage()" action="?">
                 <textarea xmlns="http://www.w3.org/1999/xhtml" class="send" name="message" rows="10" cols="25" placeholder="Compose message..."></textarea>
                 <br />
                 <button class="send" type="submit">Send</button>
@@ -285,5 +285,6 @@
       <span style="font-size: 2em;">Michael Crow</span>
       <a class="github" href="https://github.com/mmosiahc/Startup">GitHub</a>
     </footer>
+    <script src="send.js"></script>
   </body>
 </html>
