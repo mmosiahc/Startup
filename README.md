@@ -92,3 +92,11 @@ For this deliverable I stored the votes in the database.
 - Endpoints for data - My endpoints log my lovebox messages in my mongo database
 - Stores data in MongoDB - done!
 
+## Login deliverable
+
+For this deliverable I set up user authentication.
+
+- User registration - Creates a new account in the database.
+- existing users can login.
+- Use MongoDB to store credentials - Stores both user and their hashed passwords.
+- Restricts functionality - The api's all require authenticated users.
